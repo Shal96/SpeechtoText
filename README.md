@@ -1,5 +1,5 @@
 # SpeechtoText
-This project focuses on voice to text recognition. 
+This challenge focuses on voice to text recognition. 
 Provided was the list of 25 words(medical terms) and goal is to recognize 
 these words in text.
 
